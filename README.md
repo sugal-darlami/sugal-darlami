@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Sugal 👋
 
-<!--
-**sugal-darlami/sugal-darlami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Engineering student at ISMT College, Nepal. I build desktop apps in C# / .NET and design things in Photoshop and Illustrator.
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`C#` `.NET` `MySQL` `JavaScript` `HTML/CSS` `Cisco Networking` `Photoshop` `Illustrator`
+
+### Projects worth checking out
+
+- **[YouTube Unsubscribe Extension](https://github.com/sugal-graphics/You-tube-Allrounder-Unsubscribe-button)** — Browser extension for bulk-unsubscribing from YouTube channels
+- **[Hologram Interface ChatGPT](https://github.com/sugal-graphics/Hologram-interface-chatgpt)** — A hologram-style UI for interacting with ChatGPT
+- **[Grade Management System](https://github.com/sugal-graphics/grade-management-system)** — Student grade tracking and management tool
+- **[Design Portfolio](https://github.com/sugal-graphics/graphic-design-portfolio)** — Collection of my graphic design work
+
+### Get in touch
+
+✉️ sugaldarlami@gmail.com
